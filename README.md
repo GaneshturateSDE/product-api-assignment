@@ -158,7 +158,8 @@ spring.jpa.show-sql=true
 
 | Method | Endpoint               |
 | ------ | ---------------------- |
-| POST   | `/api/v1/auth/login`   |
+| POST   | `/api/v1/auth/signin`  |
+| POST   | `/api/v1/auth/signup`  |
 | POST   | `/api/v1/auth/refresh` |
 
 ---
